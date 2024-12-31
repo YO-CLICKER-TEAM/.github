@@ -4,7 +4,7 @@
 All the proyects used to make Yo-Clicker.
 
 ## List:
-- [YO-CLICKER-TEAM/Castelius](https://github.com/YO-CLICKER-TEAM/castelius): Backend server used form managing auth, database content and routes.
+- [YO-CLICKER-TEAM/Castelius](https://github.com/YO-CLICKER-TEAM/castelius): Backend server used for managing auth, database content and routes.
 - [YO-CLICKER-TEAM/Springdale](https://github.com/YO-CLICKER-TEAM/springdale): Windows application writen in C# using .NET Core.
 - [YO-CLICKER-TEAM/Harrisville](https://github.com/YO-CLICKER-TEAM/harrisville): Website application writen in Typescript using the VUE.JS3 Framework.
 - [YO-CLICKER-TEAM/Benkei](https://github.com/YO-CLICKER-TEAM/benkei): API based on the backend for public expose.
